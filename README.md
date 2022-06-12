@@ -20,7 +20,8 @@ Free to distribute, copy.
 
 Firmware may be updated late compared to GP2040 updates. BoardConfig.H provided and v0.43 is provided as of 12/6/22.
 
-Screenshots of the PCB are found below:
+Pictures below:
 
 ![Screenshot 2022-06-12 031738](https://user-images.githubusercontent.com/42714371/173214607-70ab118e-a4c9-480b-9676-eacb00a6fbd8.png)
 ![Screenshot 2022-06-12 031841](https://user-images.githubusercontent.com/42714371/173214610-6e118eb3-402b-4fe7-a654-b762d40ed78f.png)
+![Screenshot 2022-06-12 064719](https://user-images.githubusercontent.com/42714371/173217604-708657c8-aaa5-4e60-8a44-54582729e749.png)
