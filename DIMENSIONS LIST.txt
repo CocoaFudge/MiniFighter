@@ -1,5 +1,2 @@
 214mm - HORIZONTAL - BPCBV7
 120mm - Vertical - BPCBV7
-
-10" ~ 250mm - Horizontal - Snackbox Micro
-5" ~ 125mm - Vertical - Snackbox Micro
