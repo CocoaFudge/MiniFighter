@@ -7,8 +7,6 @@ Running GP2040 firmware by FeralAI. https://github.com/FeralAI/GP2040
 
 GP2040 now continued by the community: https://github.com/OpenStickFoundation/GP2040-CE
 
-Done as a project for my hobby and enjoyment.
-
 The main concept for this board was a very small 'hitbox' style gamepad. The choices made for size, efficiency and functionality all came into effect for this board. It uses LEDs to provide visual feedback and aesthetically please the user whilst retaining functionality.
 
 An open-source Fightstick community can be found here. I'd like to thank them dearly for inspiring this project.
