@@ -3,9 +3,7 @@ Open source gamepad hitbox layout
 
 This is a PCB based on RP2040 / Pi Pico.
 
-Running GP2040 firmware by FeralAI. https://github.com/FeralAI/GP2040
-
-GP2040 now continued by the community: https://github.com/OpenStickFoundation/GP2040-CE
+Running GP2040 firmware by the community: https://github.com/OpenStickFoundation/GP2040-CE
 
 The main concept for this board was a very small 'hitbox' style gamepad. The choices made for size, efficiency and functionality all came into effect for this board. It uses LEDs to provide visual feedback and aesthetically please the user whilst retaining functionality.
 
