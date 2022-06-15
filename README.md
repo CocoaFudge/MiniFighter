@@ -21,5 +21,3 @@ Pictures below:
 ![Screenshot 2022-06-12 031738](https://user-images.githubusercontent.com/42714371/173553395-36daeb55-07b7-4b38-9ae2-46bc07e55269.png)
 
 ![Screenshot 2022-06-12 031841](https://user-images.githubusercontent.com/42714371/173553405-956b3bc6-7df5-48a6-a672-d24884d9e0d6.png)
-
-![Screenshot 2022-06-12 064719](https://user-images.githubusercontent.com/42714371/173217604-708657c8-aaa5-4e60-8a44-54582729e749.png)
