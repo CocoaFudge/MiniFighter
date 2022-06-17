@@ -21,3 +21,13 @@ Pictures below:
 ![Screenshot 2022-06-12 031738](https://user-images.githubusercontent.com/42714371/173553395-36daeb55-07b7-4b38-9ae2-46bc07e55269.png)
 
 ![Screenshot 2022-06-12 031841](https://user-images.githubusercontent.com/42714371/173553405-956b3bc6-7df5-48a6-a672-d24884d9e0d6.png)
+
+- Temperature controlled Soldering Iron / Station. (1PC)
+- Raspberry Pi Pico (Must be from Raspberry Pi, no clones or derivatives of RP2040 due to pin layout. (1PC)
+- Gateron Hot Swap Sockets for MX Switches. (12PCs)
+- Tactile buttons, THT, 6mm x 6mm LXW. Height subjective. (7PCs)
+- Cherry-MX switches or MX-Style switches. (12PCs)
+- Sinoarcade 24mm MX button cap (11PCs) 30mm MX Button cap (1PCs). <- This is an option in aliexpress store, don't press other options to save money.
+- M3 Screws. (8Pcs)
+- WS2812B (12PCS)
+- 100uF / 0.1nF 0402 SMD Capacitor (12PCS)
