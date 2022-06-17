@@ -22,6 +22,8 @@ Pictures below:
 
 ![Screenshot 2022-06-12 031841](https://user-images.githubusercontent.com/42714371/173553405-956b3bc6-7df5-48a6-a672-d24884d9e0d6.png)
 
+
+Parts required for PCB building:
 - Temperature controlled Soldering Iron / Station. (1PC)
 - Raspberry Pi Pico (Must be from Raspberry Pi, no clones or derivatives of RP2040 due to pin layout. (1PC)
 - Gateron Hot Swap Sockets for MX Switches. (12PCs)
