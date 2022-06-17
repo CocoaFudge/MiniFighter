@@ -33,3 +33,7 @@ Parts required for PCB building:
 - M3 Screws. (8Pcs)
 - WS2812B (12PCS)
 - 100uF / 0.1nF 0402 SMD Capacitor (12PCS)
+
+Note: 
+Schematic has the reference and data for the SMT components required. (Capacitors and LEDs).
+To export these, please follow this guide. https://github.com/prrvchr/KiCad-BOM-CPL-Plugin 
